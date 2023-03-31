@@ -1,6 +1,6 @@
 Name:		texlive-cmsrb
 Version:	54706
-Release:	1
+Release:	2
 Summary:	Computer Modern for Serbian and Macedonian
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/cmsrb

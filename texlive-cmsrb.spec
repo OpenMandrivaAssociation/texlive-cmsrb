@@ -3,7 +3,7 @@ Version:	54706
 Release:	2
 Summary:	Computer Modern for Serbian and Macedonian
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/cmsrb
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/cmsrb
 License:	gpl
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/cmsrb.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/cmsrb.doc.r%{version}.tar.xz
